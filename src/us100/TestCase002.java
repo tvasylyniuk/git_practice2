@@ -5,5 +5,7 @@ public class TestCase002 {
         System.out.println("Hello Again");
 
         System.out.println("We are learning Git");
+
+        System.out.println("I love java and GIT");
     }
 }
